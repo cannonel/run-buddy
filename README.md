@@ -1,4 +1,4 @@
-# Run Buddy INC.
+# Run Buddy, Inc
 
 ## Purpose
 
@@ -16,3 +16,5 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Erika Cannon
+
+### ©️2019 Run Buddy, Inc
